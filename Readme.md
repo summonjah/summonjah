@@ -16,7 +16,8 @@ Hobbies:
 - Making Random Projects
 
 Projects:
-  - Yaku (Only & Main 1)
+  - Yaku ( Discontinued due to unorganized )
+  - Serine ( Main Project/Softwork )
 ```
 ```c
 using System;
