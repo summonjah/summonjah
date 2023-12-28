@@ -7,7 +7,7 @@
 ```py
 
 Name: Summon
-Programming Language Knowledge: Lua/Luau/C++/C#/PY/HTML
+Programming Language Knowledge: Lua/Luau/C++/C#/PY/HTML/JS/CSS/Rust
 Discord: ssummon#956268331105673227
 Hobbies:
 - Making Cheats for Games
